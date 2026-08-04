@@ -3,7 +3,9 @@
   <img src="https://raw.githubusercontent.com/Nithin-Chaganty/Nithin-Chaganty/main/2026-08-04-Welcome-to-my-GitHub-Profile.gif" alt="Welcome to my GitHub Profile" style="max-width: 100%;" />
   <br />
   <br />
-  <h3>My Name is [YOUR NAME] and I like [YOUR THING — e.g. Data & Python]</h3>
+  <h3>Hi, I'm Nithin</h3>
+<h4>M.S. in Analytics (Computational Data Analytics) @ Georgia Tech</h4>
+<h4>B.S. in Business Administration (IT Concentration) @ NC State</h4>
   <br />
 </div>
 <!-- Social -->
