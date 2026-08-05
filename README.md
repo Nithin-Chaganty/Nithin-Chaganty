@@ -2,8 +2,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nithin-Chaganty/Nithin-Chaganty/main/2026-08-04-Welcome-to-my-GitHub-Profile.gif" alt="Welcome to my GitHub Profile" style="max-width: 100%;" />
   <br />
+  <img src="YOUR_SMALL_GIF_URL" alt="divider" height="40" />
   <br />
-  <h3>Hi, I'm Nithin</h3>
+ <h3><img src="https://raw.githubusercontent.com/Nithin-Chaganty/Nithin-Chaganty/main/2026-08-04-Hi-I-m-Nithin%20%283%29.gif" alt="Hi, I'm Nithin" height="300" /></h3>
 <h4>M.S. in Analytics (Computational Data Analytics) @ Georgia Tech</h4>
 <h4>B.S. in Business Administration (IT Concentration) @ NC State</h4>
   <br />
