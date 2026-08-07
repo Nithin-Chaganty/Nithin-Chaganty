@@ -26,12 +26,6 @@
 </td>
 </tr>
 </table>
-<!-- Guestbook -->
-<div align="center">
-<a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/1"><strong>Guestbook (Add a new entry)</strong></a>
-</div>
-NameDateMessage<img width="24" src="https://github.com/identicons/example1.png" /> exampleUser11/1/2026, 12:00:00 PMNice profile!<img width="24" src="https://github.com/identicons/example2.png" /> exampleUser21/2/2026, 3:15:00 PMCool page :]
-
 <!-- Footer -->
 <div align="center">
 <br />
