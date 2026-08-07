@@ -26,10 +26,4 @@
 </td>
 </tr>
 </table>
-<!-- Footer -->
-<div align="center">
-<br />
-<strong>Thanks for visiting my profile, see you next time!</strong>
-<br /><br />
-<img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="Visitor Count" />
-</div>
+
