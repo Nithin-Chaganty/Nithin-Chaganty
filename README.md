@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nithin-Chaganty/Nithin-Chaganty/main/2026-08-04-Welcome-to-my-GitHub-Profile.gif" alt="Welcome to my GitHub Profile" style="max-width: 100%;" />
   <br />
- <h3><img src="https://raw.githubusercontent.com/Nithin-Chaganty/Nithin-Chaganty/main/2026-08-04-Hi-I-m-Nithin%20%283%29.gif" alt="Hi, I'm Nithin" height="300" /></h3>
+ <h2>Hi, I'm Nithin</h2>
 <h4>M.S. in Analytics (Computational Data Analytics) @ Georgia Tech</h4>
 <h4>B.S. in Business Administration (IT Concentration) @ NC State</h4>
   <br />
@@ -13,8 +13,8 @@
 <td align="center">
 <strong>Visit my personal website</strong>
 <br /><br />
-<a href="https://nithin-chaganty.github.io/Nithinchaganty.github.io/">
-<img alt="Globe" height="80" src="YOUR_CURRENT_GLOBE_GIF_URL">
+<a href="https://nithin-chaganty.github.io/Nithinchaganty.github.io/" target="_blank">
+<img alt="Globe" height="80" src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif">
 </a>
 </td>
 <td align="center">
