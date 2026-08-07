@@ -20,8 +20,8 @@
 <td align="center">
 <strong>Listen to cool music</strong>
 <br /><br />
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-<img height="100" alt="Music" src="https://media.giphy.com/media/xUOwGdc2kmzMqUXgvS/giphy.gif">
+<a href="https://youtu.be/-UV0QGLmYys?si=RqklkzWBeFNLAnVG" target="_blank">
+<img height="100" alt="Music" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFyaTN3Yzlqcmk0Z3JodnY0dGN6M3cwZm9qeXh5ZmJzZ2FvMXlnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cPa0VPT5ZR8d6s9UGU/giphy.gif">
 </a>
 </td>
 </tr>
